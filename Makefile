@@ -11,7 +11,7 @@ LDFLAGS=-L/usr/lib/i386-linux-gnu
 LIBS=-lXext -lX11 -lnsl -lm
 
 # subdirectory for objects
-O=linux
+O=build
 
 # not too sophisticated dependency
 OBJS=				\
