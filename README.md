@@ -1,0 +1,2 @@
+# minidoom
+stripped doom
